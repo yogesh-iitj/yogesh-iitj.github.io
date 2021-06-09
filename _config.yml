@@ -11,9 +11,9 @@ title                    : "Yogesh Kumar"
 title_separator          : "-"
 name                     : &name "Yogesh Kumar"
 description              : &description "Ph.D. Scholar at IIT Jodhpur"
-url                      : #https://Yogeshiitj.github.io 
+url                      : #https://Yogesh-iitj.github.io 
 baseurl                  : "" # the subpath of your site, e.g."
-repository               : "yogesh-iitj/Yogeshiitj.github.io"
+repository               : "yogesh-iitj/Yogesh-iitj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
