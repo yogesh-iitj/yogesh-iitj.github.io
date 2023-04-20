@@ -8,6 +8,7 @@ author_profile: true
 * <strong>Towards Making Flowchart Images Machine Interpretable</strong> <br>
   Shreya Shukla, Prajwal Gatti, Yogesh Kumar, Vikash Yadav, Anand Mishra,
   <br>
+  ICDAR 2023
 
 * <strong>Few-Shot Referring Relationships in Videos</strong> <br>
   Yogesh Kumar, Anand Mishra,
