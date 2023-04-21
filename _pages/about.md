@@ -10,7 +10,7 @@ redirect_from:
 I am a Ph.D. Scholar at [IIT Jodhpur](https://iitj.ac.in/) in Vision, Language, and Learning Group [(VL2G)](https://vl2g.github.io/) under [Dr. Anand Mishra's](https://anandmishra22.github.io/) supervision. Currently, I am working on some exciting research problems in computer vision and NLP. 
     
 ## News
-- **[April 2023]** A paper on fLowchart to code generation got accepted in [**ICDAR 2023**](https://icdar2023.org/important-dates/). 
+- **[April 2023]** A paper on flowchart to code generation got accepted in [**ICDAR 2023**](https://icdar2023.org/important-dates/). 
 - **[March 2023]** Awarded Microsoft Travel Grant for attending CVPR 2023 in Vancouver, Canada. 
 - **[Feb 2023]** My work on Few-shot Referring Relatiohsip got accepted in [**CVPR 2023**](https://cvpr2023.thecvf.com/). 
 - **[Jan 2023]** Presented state-of-the-Art Seminar (SOTA) on Interpreting Video Content using Limited Labels. 
