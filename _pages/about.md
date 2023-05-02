@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my Ph.D. at [IIT Jodhpur](https://iitj.ac.in/) within the Vision, Language, and Learning Group [(VL2G)](https://vl2g.github.io/), under the supervision of [Dr. Anand Mishra](https://anandmishra22.github.io/). My research focuses on addressing intriguing problems in the areas of computer vision and natural language processing. I completed my M. Tech in Artificial Intelligence at IIT Jodhpur, also supervised by Dr. Anand Mishra, and hold both UGC NET-JRF and GATE qualifications.
+I am currently pursuing my Ph.D. at [IIT Jodhpur](https://iitj.ac.in/) within the Vision, Language, and Learning Group [(VL2G)](https://vl2g.github.io/), under the supervision of [Dr. Anand Mishra](https://anandmishra22.github.io/). My research focuses on video understanding with limited supervision, addressing intriguing problems in the areas of computer vision and natural language processing. I completed my M. Tech in Artificial Intelligence at IIT Jodhpur, also supervised by Dr. Anand Mishra, and hold both UGC NET-JRF and GATE qualifications.
 
 Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Science at the [University of Delhi](https://cs.du.ac.in/) in 2019. During my MSc program, I explored the field of text summarization for my thesis under the supervision of [Prof. Vasudha Bhatnagar](https://anandmishra22.github.io/).
 
