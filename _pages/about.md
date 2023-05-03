@@ -14,6 +14,7 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 <div class="news-scroll" markdown="1">
 ## News
 - **[April 2023]** A paper on flowchart to code generation got accepted in [**ICDAR 2023**](https://icdar2023.org/important-dates/). 
+- **[March 2023]** I will serve as a reviewer for NuerIPS 2023.  
 - **[March 2023]** Awarded Microsoft Travel Grant for attending CVPR 2023 in Vancouver, Canada. 
 - **[Feb 2023]** My work on Few-shot Referring Relatiohsip got accepted in [**CVPR 2023**](https://cvpr2023.thecvf.com/). 
 - **[Jan 2023]** Presented state-of-the-Art Seminar (SOTA) on Interpreting Video Content using Limited Labels. 
