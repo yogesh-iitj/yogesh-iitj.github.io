@@ -11,6 +11,7 @@ I am currently pursuing my Ph.D. at [IIT Jodhpur](https://iitj.ac.in/) within th
 
 Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Science at the [University of Delhi](https://cs.du.ac.in/) in 2019. During my MSc program, I explored the field of text summarization for my thesis under the supervision of [Prof. Vasudha Bhatnagar](https://anandmishra22.github.io/).
 
+<!--
 <div class="news-scroll" markdown="1">
 ## News
 - **[April 2023]** A paper on flowchart to code generation got accepted in [**ICDAR 2023**](https://icdar2023.org/important-dates/). 
@@ -27,3 +28,4 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 - **[Dec 2021]** Attended ICVGIP 2022 at IIT Jodhpur. 
 
 </div>
+-->
