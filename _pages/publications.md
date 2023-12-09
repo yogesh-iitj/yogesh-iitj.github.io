@@ -6,6 +6,11 @@ author_profile: true
 ---
 <!-- TEMP WAY -->
 
+* <strong>QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos</strong> <br>
+  <strong>Yogesh Kumar</strong>, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, and Roshni Ramnani,
+  <br>
+  AAAI 2024 <br>
+  
 * <strong>Few-Shot Referring Relationships in Videos</strong> <br>
   <strong>Yogesh Kumar</strong>, Anand Mishra,
   <br>
