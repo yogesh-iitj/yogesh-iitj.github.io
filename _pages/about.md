@@ -32,4 +32,4 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 
 </div>
 
--->
+
