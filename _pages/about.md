@@ -11,10 +11,10 @@ I am currently pursuing my Ph.D. at [IIT Jodhpur](https://iitj.ac.in/) within th
 
 Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Science at the [University of Delhi](https://cs.du.ac.in/) in 2019. During my MSc program, I explored the field of text summarization for my thesis under the supervision of [Prof. Vasudha Bhatnagar](https://people1.du.ac.in/~vbhatnagar/).
 
-<!--
+
 <div class="news-scroll" markdown="1">
 ## News
-- **[Dec 2023]** I will present my work in Vision India (ICVGIP 2023).
+- **[Dec 2023]** My work on One-shot object localization in Videos got accepted in AAAI 24.
 - **[Oct 2023]** Presented my work in the AI India track (AIML-Sys 2023).
 - **[Sep 2023]** I will serve as a reviewer for ICLR 2024.
 - **[Aug 2023]** Awarded ICCV 23 DEI travel grant.   
@@ -27,7 +27,6 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 - **[Dec 2022]** Attended ICVGIP 2022 at IIT Gandhinagar. 
 - **[Sep 2022]** Presented my work during the Youth Conclave organized by INAE-SERB, IIT Jodhpur 2022. 
 - **[Jun 2022]** Attended CVPR 2022 virtually.
-- **[April 2022]** Awarded CVPR 2022 Registration Waiver.
 - **[Jan 2022]** Selected for attending the Research Week with Google in the CV track.
 - **[Dec 2021]** Attended ICVGIP 2022 at IIT Jodhpur. 
 
