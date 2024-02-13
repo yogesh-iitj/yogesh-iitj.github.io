@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://drive.google.com/file/d/10FVS5u-CMN21QpL_WQQH8C0-r0q4jyp3/view?usp=share_link" type="application/pdf" width = "1000" height = "1000" />
+<embed src="https://docs.google.com/document/d/1AB4Ww7qie4T8j_ISTQ_ZrqPhdw4LZK1wNEAxSihSN5Q/edit" width = "1000" height = "1000" />
 
 <!-- Education
 ======
