@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://docs.google.com/document/d/1AB4Ww7qie4T8j_ISTQ_ZrqPhdw4LZK1wNEAxSihSN5Q/edit" width = "1000" height = "1000" />
+<embed src="https://docs.google.com/document/d/1AB4Ww7qie4T8j_ISTQ_ZrqPhdw4LZK1wNEAxSihSN5Q/edit?usp=sharing" width = "1000" height = "1000" />
 
 <!-- Education
 ======
