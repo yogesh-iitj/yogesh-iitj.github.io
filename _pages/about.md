@@ -14,6 +14,7 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 <!--
 <div class="news-scroll" markdown="1">
 ## News
+- **[Dec 2023]** Attended Research Week with Google.
 - **[Dec 2023]** Presented my CVPR 23 work at Vision India, ICVGIP.
 - **[Dec 2023]** My work on One-shot object localization in Videos got accepted in AAAI 24.
 - **[Oct 2023]** Presented my work in the AI India track (AIML-Sys 2023).
