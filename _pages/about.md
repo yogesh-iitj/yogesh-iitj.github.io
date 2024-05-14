@@ -14,6 +14,7 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 <!--
 <div class="news-scroll" markdown="1">
 ## News
+- **[May 2024]** I will serve as a reviewer for BMVC 2024.
 - **[March 2024]** I will serve as a reviewer for ECCV 2024.
 - **[Feb 2024]** Attended AAAI 2024 Virtually.
 - **[Dec 2023]** Attended Research Week with Google.
