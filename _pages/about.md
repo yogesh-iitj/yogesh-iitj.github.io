@@ -11,7 +11,7 @@ I am currently pursuing my Ph.D. at [IIT Jodhpur](https://iitj.ac.in/) within th
 
 Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Science at the [University of Delhi](https://cs.du.ac.in/) in 2019. During my MSc program, I explored the field of text summarization for my thesis under the supervision of [Prof. Vasudha Bhatnagar](https://people1.du.ac.in/~vbhatnagar/).
 
--->
+<!--
 <div class="news-scroll" markdown="1">
 ## News
 - **[May 2024]** Serving as a reviewer for BMVC 2024.
