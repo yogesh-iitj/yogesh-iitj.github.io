@@ -11,6 +11,7 @@ author_profile: true
   <br>
   ICVGIP 2024 <br>
 
+
 * <strong>QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos</strong> <br>
   <strong>Yogesh Kumar</strong>, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, and Roshni Ramnani,
   <br>
