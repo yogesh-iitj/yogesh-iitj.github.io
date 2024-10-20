@@ -7,7 +7,7 @@ author_profile: true
 <!-- TEMP WAY -->
 
 * <strong>Chapter-Based Video Moment Retrieval using Natural Language Queriess</strong> <br>
-  <strong>Yogesh Kumar*</strong>, Uday Agarwal*,  Abu Shahid*, Prajwal Gatti, Manish Gupta, Anand Mishra, (*equally contributed).
+  Yogesh Kumar, Uday Agarwal*,  Abu Shahid*, Prajwal Gatti, Manish Gupta, Anand Mishra, (*equally contributed).
   <br>
   ICVGIP 2024 <br>
 
