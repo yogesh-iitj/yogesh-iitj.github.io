@@ -11,7 +11,7 @@ author_profile: true
   AAAI 2024 <br>
 
 * <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <be>
- <Uday Agarwal\*,  <strong>Yogesh Kumar\*</strong>,  Abu Shahid\*, Prajwal Gatti, Manish Gupta, Anand Mishra <br>
+  Uday Agarwal\*,  <strong>Yogesh Kumar\*</strong>,  Abu Shahid\*, Prajwal Gatti, Manish Gupta, Anand Mishra <br>
  ICVGIP 2024 <br>
   
 * <strong>Few-Shot Referring Relationships in Videos</strong> <br>
