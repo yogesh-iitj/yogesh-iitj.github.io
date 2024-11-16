@@ -10,7 +10,7 @@ author_profile: true
   Yogesh Kumar, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, and Roshni Ramnani <br>
   AAAI 2024 <br>
 
-* <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <be>
+* <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <br>
   Uday Agarwal\*,  <strong>Yogesh Kumar\*</strong>,  Abu Shahid\*, Prajwal Gatti, Manish Gupta, Anand Mishra <br>
  ICVGIP 2024 <br>
   
