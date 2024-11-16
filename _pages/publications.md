@@ -8,8 +8,7 @@ author_profile: true
 
 * <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <be>
  <Uday Agarwal\*,  <strong>Yogesh Kumar\*</strong>,  Abu Shahid\*, Prajwal Gatti, Manish Gupta, Anand Mishra <br>
- <br>
-  ICVGIP 2024 <br>
+ <br>ICVGIP 2024 <br>
 
 * <strong>QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos</strong> <br>
   Yogesh Kumar, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, and Roshni Ramnani <br>
