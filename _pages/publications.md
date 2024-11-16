@@ -7,7 +7,7 @@ author_profile: true
 <!-- TEMP WAY -->
 
 * <strong>QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos</strong> <br>
-  Yogesh Kumar, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, and Roshni Ramnani <br>
+  <strong>Yogesh Kumar</strong>, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, and Roshni Ramnani <br>
   AAAI 2024 <br>
 
 * <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <br>
@@ -15,11 +15,11 @@ author_profile: true
  ICVGIP 2024 <br>
   
 * <strong>Few-Shot Referring Relationships in Videos</strong> <br>
-  Yogesh Kumar, Anand Mishra <br>
+   <strong>Yogesh Kumar</strong>, Anand Mishra <br>
   CVPR 2023 <br>
   
 * <strong>Towards Making Flowchart Images Machine Interpretable</strong> <br>
-  Shreya Shukla, Prajwal Gatti, Yogesh Kumar, Vikash Yadav, Anand Mishra <br>
+  Shreya Shukla, Prajwal Gatti, <strong>Yogesh Kumar</strong>, Vikash Yadav, Anand Mishra <br>
   ICDAR 2023 <br>
   
 {% if author.googlescholar %}
