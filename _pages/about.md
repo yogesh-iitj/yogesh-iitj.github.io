@@ -24,7 +24,7 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 - **[Dec 2023]** Presented my CVPR 23 work at Vision India, ICVGIP.
 - **[Dec 2023]** My work on One-shot object localization in Videos got accepted in AAAI 24.
 - **[Oct 2023]** Presented my work in the AI India track (AIML-Sys 2023).
-- **[Sep 2023]** I will serve as a reviewer for ICLR 2024.
+- **[Sep 2023]** Serving as a reviewer for ICLR 2023.
 - **[Aug 2023]** Awarded ICCV 23 DEI travel grant.   
 - **[April 2023]** Our work on the flowchart to code generation got accepted in [**ICDAR 2023**](https://icdar2023.org/important-dates/). 
 - **[March 2023]** Serving as a reviewer for NuerIPS 2023.  
