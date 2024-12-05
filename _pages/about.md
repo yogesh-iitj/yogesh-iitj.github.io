@@ -11,9 +11,12 @@ I am currently pursuing my Ph.D. at [IIT Jodhpur](https://iitj.ac.in/) within th
 
 Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Science at the [University of Delhi](https://cs.du.ac.in/) in 2019. During my MSc program, I explored the field of text summarization for my thesis under the supervision of [Prof. Vasudha Bhatnagar](https://people1.du.ac.in/~vbhatnagar/).
 
-<!--
+
 <div class="news-scroll" markdown="1">
 ## News
+- **[Nov 2024]** Recognized as an outstanding reviewer at BMVC 2024.
+- **[Sep 2024]** Our work on chapter-based video moment retrieval has been accepted at ICVGIP 2024.  
+- **[Aug 2024]** Serving as a reviewer for ICLR 2024.
 - **[May 2024]** Serving as a reviewer for BMVC 2024.
 - **[March 2024]** Serving as a reviewer for ECCV 2024.
 - **[Feb 2024]** Attended AAAI 2024 Virtually.
@@ -38,4 +41,3 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 </div>
 
 
--->
