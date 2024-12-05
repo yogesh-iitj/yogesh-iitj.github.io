@@ -13,7 +13,7 @@ author_profile: true
 * <strong>QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos</strong> <br>
   <strong>Yogesh Kumar</strong>, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, and Roshni Ramnani <br>
   AAAI 2024 <br>
-  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28063">[Paper]</a> | <a href="https://github.com/yogesh-iitj/QDETRV">[Code]</a> | <a href="https://vl2g.github.io/projects/floco/">[Project]</a> <br>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28063">[Paper]</a> | <a href="https://github.com/yogesh-iitj/QDETRV">[Code]</a> | <a href="https://yogesh-iitj.github.io/QDETRV/">[Project]</a> <br>
 
 * <strong>Few-Shot Referring Relationships in Videos</strong> <br>
    <strong>Yogesh Kumar</strong>, Anand Mishra <br>
