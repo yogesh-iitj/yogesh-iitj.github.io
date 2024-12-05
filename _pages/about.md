@@ -17,8 +17,7 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 - **[Nov 2024]** Recognized as an outstanding reviewer at BMVC 2024.
 - **[Sep 2024]** Our work on chapter-based video moment retrieval has been accepted at ICVGIP 2024.  
 - **[March 2024]** Serving as a reviewer for ECCV 2024.
-- **[Feb 2024]** Attended AAAI 2024 Virtually.
-- **[Dec 2023]** Attended Research Week with Google.
+- **[Jan 2024]** Attended Research Week with Google.
 - **[Dec 2023]** Presented my CVPR 23 work at Vision India, ICVGIP.
 - **[Dec 2023]** My work on One-shot object localization in Videos got accepted in AAAI 24.
 - **[Oct 2023]** Presented my work in the AI India track (AIML-Sys 2023).
