@@ -14,8 +14,8 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 
 <div class="news-scroll" markdown="1">
 ## News [scroll down for more news]
-- **[June 2024]** My paper on Video Moment Retrieval got accepted at ICCV 2025.    
-- **[June 2024]** Attended Microsoft Academic Summit 2025.  
+- **[June 2025]** My paper on Video Moment Retrieval got accepted at ICCV 2025.    
+- **[June 2025]** Attended Microsoft Academic Summit 2025.  
 - **[May 2025]** Served as a reviewer for the ICLR, NeurIPS, and BMVC 2025.  
 - **[Nov 2024]** Recognized as an outstanding reviewer at BMVC 2024.
 - **[Sep 2024]** Our work on chapter-based video moment retrieval has been accepted at ICVGIP 2024.  
