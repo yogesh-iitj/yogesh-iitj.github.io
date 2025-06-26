@@ -13,7 +13,10 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 
 
 <div class="news-scroll" markdown="1">
-## News
+## News [scroll down for more news]
+- **[June 2024]** My paper on Video Moment Retrieval got accepted at ICCV 2025.    
+- **[June 2024]** Attended Microsoft Academic Summit 2025.  
+- **[May 2025]** Served as a reviewer for the ICLR, NeurIPS, and BMVC 2025.  
 - **[Nov 2024]** Recognized as an outstanding reviewer at BMVC 2024.
 - **[Sep 2024]** Our work on chapter-based video moment retrieval has been accepted at ICVGIP 2024.  
 - **[March 2024]** Serving as a reviewer for ECCV 2024.
@@ -24,7 +27,7 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 - **[Sep 2023]** Serving as a reviewer for ICLR 2023.
 - **[Aug 2023]** Awarded ICCV 23 DEI travel grant.   
 - **[April 2023]** Our work on the flowchart to code generation got accepted in [**ICDAR 2023**](https://icdar2023.org/important-dates/). 
-- **[March 2023]** Serving as a reviewer for NuerIPS 2023.  
+- **[March 2023]** Serving as a reviewer for NeurIPS 2023.  
 - **[March 2023]** Awarded Google, Microsoft, CVPR DEI, and ACM Travel Grant for attending CVPR 2023 in Vancouver, Canada. 
 - **[Feb 2023]** My work on Few-shot Referring Relatiohsip got accepted in [**CVPR 2023**](https://cvpr2023.thecvf.com/). 
 - **[Jan 2023]** Presented state-of-the-art Seminar (SOTA) on Interpreting Video Content using Limited Labels. 
