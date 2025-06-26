@@ -25,10 +25,9 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 - **[Dec 2023]** My work on One-shot object localization in Videos got accepted in AAAI 24.
 - **[Oct 2023]** Presented my work in the AI India track (AIML-Sys 2023).
 - **[Sep 2023]** Serving as a reviewer for ICLR 2023.
-- **[Aug 2023]** Awarded ICCV 23 DEI travel grant.   
 - **[April 2023]** Our work on the flowchart to code generation got accepted in [**ICDAR 2023**](https://icdar2023.org/important-dates/). 
 - **[March 2023]** Serving as a reviewer for NeurIPS 2023.  
-- **[March 2023]** Awarded Google, Microsoft, CVPR DEI, and ACM Travel Grant for attending CVPR 2023 in Vancouver, Canada. 
+- **[March 2023]** Awarded Google, Microsoft, and ACM Travel Grant for attending CVPR 2023 in Vancouver, Canada. 
 - **[Feb 2023]** My work on Few-shot Referring Relatiohsip got accepted in [**CVPR 2023**](https://cvpr2023.thecvf.com/). 
 - **[Jan 2023]** Presented state-of-the-art Seminar (SOTA) on Interpreting Video Content using Limited Labels. 
 - **[Dec 2022]** Given a tutorial on Sequence Models during 1st Winter School on Responsible AI organized by IIT Jodhpur. 
