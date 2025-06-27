@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* <strong>QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos</strong> <br>
+* <strong>Aligning Moments in Time using Video Queries</strong> <br>
   <strong>Yogesh Kumar</strong>, Uday Agarwal, Manish Gupta, Anand Mishra<br>
   ICCV 2025 
 
