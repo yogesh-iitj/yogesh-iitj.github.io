@@ -7,8 +7,12 @@ author_profile: true
 
 * <strong>QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos</strong> <br>
   <strong>Yogesh Kumar</strong>, Uday Agarwal, Manish Gupta, Anand Mishra<br>
-  ICCV 2025 <br>
-  <br>
+  ICCV 2025 
+
+* <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <br>
+  Uday Agarwal,  <strong>Yogesh Kumar</strong>,  Abu Shahid, Prajwal Gatti, Manish Gupta, Anand Mishra <br>
+  ICVGIP 2024 <br>
+  <a href="https://drive.google.com/file/d/143odnhV4CljwX8Y8hZAPThkLbEVJtEdv/view?usp=sharing">[Paper]</a> | <a href="https://github.com/vl2g/ChapVidMR">[Code]</a> | <a href="https://github.com/vl2g/ChapVidMR/tree/main/data">[Data]</a> <br>
   
 * <strong>QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos</strong> <br>
   <strong>Yogesh Kumar</strong>, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, and Roshni Ramnani <br>
@@ -25,10 +29,6 @@ author_profile: true
   ICDAR 2023 <br>
   <a href="https://vl2g.github.io/projects/floco/docs/FLOCO-ICDAR2023.pdf">[Paper]</a> | <a href="https://github.com/vl2g/floco">[Code]</a> | <a href="https://vl2g.github.io/projects/floco/">[Project]</a> <br>
 
-* <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <br>
-  Uday Agarwal,  <strong>Yogesh Kumar</strong>,  Abu Shahid, Prajwal Gatti, Manish Gupta, Anand Mishra <br>
-  ICVGIP 2024 <br>
-  <a href="https://drive.google.com/file/d/143odnhV4CljwX8Y8hZAPThkLbEVJtEdv/view?usp=sharing">[Paper]</a> | <a href="https://github.com/vl2g/ChapVidMR">[Code]</a> | <a href="https://github.com/vl2g/ChapVidMR/tree/main/data">[Data]</a> <br>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
