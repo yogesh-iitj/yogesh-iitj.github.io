@@ -7,7 +7,7 @@ author_profile: true
 
 * <strong>Aligning Moments in Time using Video Queries</strong> <br>
   <strong>Yogesh Kumar</strong>, Uday Agarwal, Manish Gupta, Anand Mishra<br>
-  ICCV 2025 <be>
+  ICCV 2025 <br>
 <a href="https://github.com/vl2g/MATR/blob/main/assets/kumar_iccv25.pdf">[Paper] </a> | <a href="https://github.com/vl2g/MATR.git">[Code]</a> | <a href="https://github.com/vl2g/MATR/tree/main/sportsmoments">[Data] <br>
 
 * <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <br>
