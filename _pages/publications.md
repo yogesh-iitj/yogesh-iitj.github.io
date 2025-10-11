@@ -10,6 +10,11 @@ author_profile: true
   ICCV 2025 <br>
 <a href="https://github.com/vl2g/MATR/blob/main/assets/kumar_iccv25.pdf">[Paper] </a> | <a href="https://github.com/vl2g/MATR.git">[Code]</a> | <a href="https://github.com/vl2g/MATR/tree/main/sportsmoments">[Data] <br>
 
+* <strong>Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing</strong> <br>
+  <strong>Yogesh Kumar</strong><br>
+  EMNLP 2025 <br>
+<a href="https://arxiv.org/pdf/2508.17686">[Paper] </a> | <a href="https://github.com/yogesh-iitj/LGTTP">[Code]</a>  <br>
+
 * <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <br>
   Uday Agarwal,  <strong>Yogesh Kumar</strong>,  Abu Shahid, Prajwal Gatti, Manish Gupta, Anand Mishra <br>
   ICVGIP 2024 <br>
