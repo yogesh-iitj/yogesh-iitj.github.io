@@ -13,7 +13,7 @@ author_profile: true
 * <strong>Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing</strong> <br>
   <strong>Yogesh Kumar</strong><br>
   EMNLP 2025 <br>
-<a href="https://arxiv.org/pdf/2508.17686">[Paper] </a> | <a href="https://github.com/yogesh-iitj/LGTTP">[Code]</a>  <br>
+<a href="https://aclanthology.org/2025.emnlp-main.451.pdf">[Paper] </a> | <a href="https://github.com/yogesh-iitj/LGTTP">[Code]</a>  <br>
 
 * <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <br>
   Uday Agarwal,  <strong>Yogesh Kumar</strong>,  Abu Shahid, Prajwal Gatti, Manish Gupta, Anand Mishra <br>
