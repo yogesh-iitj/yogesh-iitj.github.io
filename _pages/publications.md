@@ -7,7 +7,7 @@ author_profile: true
 
 * <strong> Temporal Object-Aware Vision Transformer for Few-Shot Video Object Detection </strong> <br>
   <strong>Yogesh Kumar</strong>, Anand Mishra<br>
-  AAAI 2026 <br>
+  AAAI 2026 (Main Track) <br>
   <a href="">[Paper (Coming Soon)] </a> | <a href="https://github.com/yogesh-iitj/fs-video-vit">[Code]</a> <br>
 
 * <strong>Aligning Moments in Time using Video Queries</strong> <br>
@@ -17,7 +17,7 @@ author_profile: true
 
 * <strong>Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing</strong> <br>
   <strong>Yogesh Kumar</strong><br>
-  EMNLP 2025 <br>
+  EMNLP 2025 (Main Track) <br>
 <a href="https://aclanthology.org/2025.emnlp-main.451.pdf">[Paper] </a> | <a href="https://github.com/yogesh-iitj/LGTTP">[Code]</a>  <br>
 
 * <strong>Chapter-Based Video Moment Retrieval using Natural Language Queries</strong> <br>
@@ -27,7 +27,7 @@ author_profile: true
   
 * <strong>QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos</strong> <br>
   <strong>Yogesh Kumar</strong>, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, and Roshni Ramnani <br>
-  AAAI 2024 <br>
+  AAAI 2024 (Main Track) <br>
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28063">[Paper]</a> | <a href="https://github.com/yogesh-iitj/QDETRV">[Code]</a> | <a href="https://yogesh-iitj.github.io/QDETRV/">[Project]</a> <br>
 
 * <strong>Few-Shot Referring Relationships in Videos</strong> <br>
