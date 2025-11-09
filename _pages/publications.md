@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* <strong> Temporal Object-Aware Vision Transformer for Few-Shot Video Object Detection </strong> <br>
+  <strong>Yogesh Kumar</strong>, Anand Mishra<br>
+  AAAI 2026 <br>
+
 * <strong>Aligning Moments in Time using Video Queries</strong> <br>
   <strong>Yogesh Kumar</strong>, Uday Agarwal, Manish Gupta, Anand Mishra<br>
   ICCV 2025 <br>
