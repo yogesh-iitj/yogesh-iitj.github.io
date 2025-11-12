@@ -14,6 +14,7 @@ Prior to my time at IIT Jodhpur, I completed both my BSc and MSc in Computer Sci
 
 <div class="news-scroll" markdown="1">
 ## News [scroll down for more news] 
+- **[Nov 2024]** Recognized as an outstanding reviewer at BMVC 2025.
 - **[Nov 2025]** My Work on Few-shot Video Object Detection got accepted at AAAI 2026 Main Track.    
 - **[June 2025]** My paper on Video Moment Retrieval got accepted at ICCV 2025.    
 - **[June 2025]** Attended Microsoft Academic Summit 2025.  
