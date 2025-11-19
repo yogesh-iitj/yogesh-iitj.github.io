@@ -13,7 +13,7 @@ author_profile: true
 * <strong>Aligning Moments in Time using Video Queries</strong> <br>
   <strong>Yogesh Kumar</strong>, Uday Agarwal, Manish Gupta, Anand Mishra<br>
   ICCV 2025 <br>
-<a href="https://github.com/vl2g/MATR/blob/main/assets/kumar_iccv25.pdf">[Paper] </a> | <a href="https://github.com/vl2g/MATR.git">[Code]</a> | <a href="https://github.com/vl2g/MATR/tree/main/sportsmoments">[Data] <br>
+<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kumar_Aligning_Moments_in_Time_using_Video_Queries_ICCV_2025_paper.pdf">[Paper] </a> | <a href="https://github.com/vl2g/MATR.git">[Code]</a> | <a href="https://github.com/vl2g/MATR/tree/main/sportsmoments">[Data] <br>
 
 * <strong>Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing</strong> <br>
   <strong>Yogesh Kumar</strong><br>
