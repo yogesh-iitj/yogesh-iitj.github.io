@@ -1,17 +1,6 @@
 <section class="wrap sec" id="teaching" aria-labelledby="teach-h">
-  <h2 id="teach-h">Mentoring and teaching</h2>
+  <h2 id="teach-h">Teaching</h2>
   <div class="sec-body">
-    <h3 class="sub">Students I have had the chance to work with</h3>
-    <p class="lede">All at IIT Jodhpur, under the guidance of Dr. Anand Mishra. I learned a great deal from each of them.</p>
-    <ul class="people">
-      {% for m in site.data.cv.mentoring %}
-      <li>
-        <p class="who">{% if m.url %}<a href="{{ m.url }}">{{ m.name }}</a>{% else %}{{ m.name }}{% endif %} <span>{{ m.program }}</span></p>
-        <p>{{ m.text }}</p>
-      </li>
-      {% endfor %}
-    </ul>
-
     <h3 class="sub">Teaching assistant, IIT Jodhpur</h3>
     <table class="courses">
       <thead><tr><th scope="col">Course</th><th scope="col">Term</th><th scope="col">Instructor</th></tr></thead>

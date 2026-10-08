@@ -1,6 +1,10 @@
 # Newest first. "text" may contain HTML links.
+- date: "Sep 2026"
+  text: "Defended my PhD thesis, <em>Where, How, and When: Query-Guided Grounding for Video Understanding</em>, at IIT Jodhpur on 29 September. Thank you to Dr. Anand Mishra, my committee, and everyone at VL2G."
+- date: "Sep 2026"
+  text: "Our paper on moment retrieval using video queries was accepted to <a href=\"/#pub-matr-journal\">Computer Vision and Image Understanding (CVIU)</a>."
 - date: "May 2026"
-  text: "Joined the Advanced Technology Group at Dolby Laboratories, Bangalore, as a Senior Researcher in Multimodal AI."
+  text: "Joined the Advanced Technology Group at Dolby Laboratories, Bengaluru, as a Senior Researcher."
 - date: "Jan 2026"
   text: "Attended and volunteered at AAAI 2026 in Singapore, with travel support from ACM/IARCS."
 - date: "Jan 2026"

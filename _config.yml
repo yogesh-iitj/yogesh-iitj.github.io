@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yogesh Kumar"
-  avatar           : "ppic.jpeg" #"profile.png"
+  avatar           : "yogesh.jpg" #"profile.png"
   bio              : "Senior Researcher, Dolby Laboratories"
-  location         : "Bangalore, India"
+  location         : "Bengaluru, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=prlP_UcAAAAJ&hl=en"
