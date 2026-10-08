@@ -1,0 +1,91 @@
+# Newest first. Each entry: id, title, authors (HTML ok), venue, year, note (optional), links.
+- id: aaai26
+  title: "Temporal Object-Aware Vision Transformer for Few-Shot Video Object Detection"
+  authors: "<strong>Yogesh Kumar</strong>, Anand Mishra"
+  venue: "AAAI"
+  year: "2026"
+  note: "Main track"
+  links:
+    - { label: "Paper", url: "https://arxiv.org/pdf/2511.13784" }
+    - { label: "Code", url: "https://github.com/yogesh-iitj/fs-video-vit" }
+
+- id: matr-journal
+  title: "Moment Alignment Transformer for Moment Retrieval using Video Queries"
+  authors: "<strong>Yogesh Kumar</strong>, Uday Agarwal, Manish Gupta, Anand Mishra"
+  venue: "CVIU"
+  year: "Under review"
+  links:
+    - { label: "Preprint", url: "https://www.techrxiv.org/doi/full/10.36227/techrxiv.176159526.66081128/v1" }
+
+- id: iccv25
+  title: "Aligning Moments in Time using Video Queries"
+  authors: "<strong>Yogesh Kumar</strong>, Uday Agarwal, Manish Gupta, Anand Mishra"
+  venue: "ICCV"
+  year: "2025"
+  links:
+    - { label: "Paper", url: "https://openaccess.thecvf.com/content/ICCV2025/papers/Kumar_Aligning_Moments_in_Time_using_Video_Queries_ICCV_2025_paper.pdf" }
+    - { label: "arXiv", url: "https://arxiv.org/pdf/2508.15439" }
+    - { label: "Code", url: "https://github.com/vl2g/MATR" }
+    - { label: "Dataset", url: "https://github.com/vl2g/MATR/tree/main/sportsmoments" }
+
+- id: emnlp25
+  title: "Language-Guided Temporal Token Pruning for Efficient VideoLLM Processing"
+  authors: "<strong>Yogesh Kumar</strong>"
+  venue: "EMNLP"
+  year: "2025"
+  note: "Main conference"
+  links:
+    - { label: "Paper", url: "https://aclanthology.org/2025.emnlp-main.451.pdf" }
+    - { label: "Code", url: "https://github.com/yogesh-iitj/LGTTP" }
+
+- id: survey25
+  title: "VideoLLM Benchmarks and Evaluation: A Survey"
+  authors: "<strong>Yogesh Kumar</strong>"
+  venue: "arXiv"
+  year: "2025"
+  links:
+    - { label: "Paper", url: "https://www.arxiv.org/pdf/2505.03829" }
+
+- id: icvgip24
+  title: "Chapter-Based Video Moment Retrieval using Natural Language Queries"
+  authors: "Uday Agarwal, <strong>Yogesh Kumar</strong>, Abu Shahid, Prajwal Gatti, Manish Gupta, Anand Mishra"
+  venue: "ICVGIP"
+  year: "2024"
+  links:
+    - { label: "Paper", url: "https://drive.google.com/file/d/143odnhV4CljwX8Y8hZAPThkLbEVJtEdv/view?usp=sharing" }
+    - { label: "Code", url: "https://github.com/vl2g/ChapVidMR" }
+    - { label: "Dataset", url: "https://github.com/vl2g/ChapVidMR/tree/main/data" }
+
+- id: aaai24
+  title: "QDETRv: Query-Guided DETR for One-Shot Object Localization in Videos"
+  authors: "<strong>Yogesh Kumar</strong>, Saswat Mallick, Anand Mishra, Sowmya Rasipuram, Anutosh Maitra, Roshni Ramnani"
+  venue: "AAAI"
+  year: "2024"
+  note: "Main track"
+  links:
+    - { label: "Paper", url: "https://ojs.aaai.org/index.php/AAAI/article/view/28063" }
+    - { label: "Poster", url: "https://drive.google.com/file/d/1dTrQRd3mOVf9HphS9sVCrk5Ss4n8szAq/view?usp=sharing" }
+    - { label: "Code", url: "https://github.com/yogesh-iitj/QDETRV" }
+    - { label: "Project", url: "https://yogesh-iitj.github.io/QDETRV/" }
+
+- id: cvpr23
+  title: "Few-Shot Referring Relationships in Videos"
+  authors: "<strong>Yogesh Kumar</strong>, Anand Mishra"
+  venue: "CVPR"
+  year: "2023"
+  links:
+    - { label: "Paper", url: "https://openaccess.thecvf.com/content/CVPR2023/papers/Kumar_Few-Shot_Referring_Relationships_in_Videos_CVPR_2023_paper.pdf" }
+    - { label: "Poster", url: "https://drive.google.com/file/d/1cPQ44OYFpGxv9FetQn9zScxg_PidSCRC/view?usp=sharing" }
+    - { label: "Project", url: "https://vl2g.github.io/projects/refRelations/" }
+    - { label: "Code", url: "https://github.com/vl2g/RefRelations" }
+
+- id: icdar23
+  title: "Towards Making Flowchart Images Machine Interpretable"
+  authors: "Shreya Shukla, Prajwal Gatti, <strong>Yogesh Kumar</strong>, Vikas Yadav, Anand Mishra"
+  venue: "ICDAR"
+  year: "2023"
+  links:
+    - { label: "Paper", url: "https://vl2g.github.io/projects/floco/docs/FLOCO-ICDAR2023.pdf" }
+    - { label: "Poster", url: "https://drive.google.com/file/d/1-n0F7PBkPFoMT39lS0TFAkn0Von8jUNI/view?usp=sharing" }
+    - { label: "Project", url: "https://vl2g.github.io/projects/floco/" }
+    - { label: "Code", url: "https://github.com/vl2g/floco" }

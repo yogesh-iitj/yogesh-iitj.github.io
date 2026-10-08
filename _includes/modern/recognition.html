@@ -1,0 +1,9 @@
+<section class="wrap sec" id="recognition" aria-labelledby="rec-h">
+  <h2 id="rec-h">Recognition and support</h2>
+  <div class="sec-body">
+    <p class="lede">I am grateful to the people and organizations who have supported this work.</p>
+    <ul class="list">
+      {% for r in site.data.cv.recognition %}<li>{{ r }}</li>{% endfor %}
+    </ul>
+  </div>
+</section>
