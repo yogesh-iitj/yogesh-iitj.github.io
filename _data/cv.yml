@@ -6,34 +6,34 @@ experience:
     org: "Dolby Laboratories, Advanced Technology Group"
     place: "Bengaluru, India"
     dates: "May 2026 to present"
-    text: "Working on multimodal and long-form video understanding, including a pipeline that generates personalized highlights from a user's prompt."
+    text: "Working on multimodal and long-form video understanding."
   - role: "Senior Project Scientist"
     org: "IIT Jodhpur"
     place: "Jodhpur, India"
     dates: "Jan 2026 to Apr 2026"
     text: "Worked on video-to-video retrieval: given a short query clip, finding the matching segments across a collection of untrimmed videos, without going through text."
-  - role: "Project Lead, Microsoft Academic Partnership Grant"
-    org: "IIT Jodhpur with Microsoft Bing, Hyderabad"
+  - role: "Research collaboration with Microsoft Bing"
+    org: "IIT Jodhpur, supported by the Microsoft Academic Partnership Grant"
     place: "Jodhpur, India"
     dates: "Jul 2024 to Jun 2025"
-    text: "Worked with colleagues at Microsoft Bing on searching long, untrimmed videos for actions and moments using text and video queries. Together we built MATR, a transformer that retrieves a moment using a video clip as the query, so the moment does not have to be described in words. The work appeared at <a href=\"/#pub-iccv25\">ICCV 2025</a>, <a href=\"/#pub-icvgip24\">ICVGIP 2024</a>, and in <a href=\"/#pub-matr-journal\">CVIU</a>, along with the SportsMoments and ChapVidMR benchmarks."
-  - role: "Project Lead, Accenture Gift Grant"
-    org: "IIT Jodhpur with Accenture Labs, Bangalore"
+    text: "Worked with colleagues at Microsoft Bing, Hyderabad, on searching long, untrimmed videos for actions and moments using text and video queries. Together we built MATR, a transformer that retrieves a moment using a video clip as the query, so the moment does not have to be described in words. The work appeared at <a href=\"/#pub-iccv25\">ICCV 2025</a>, ICVGIP 2024, and in <a href=\"/#pub-matr-journal\">CVIU</a>, along with the SportsMoments and ChapVidMR benchmarks."
+  - role: "Research collaboration with Accenture Labs"
+    org: "IIT Jodhpur, supported by an Accenture Gift Grant"
     place: "Jodhpur, India"
     dates: "Jul 2023 to Jun 2024"
-    text: "Worked with colleagues at Accenture Labs on localizing unseen objects and their interactions in videos from a handful of examples. This included QDETRv, a query-guided DETR for one-shot object localization, and a few-shot approach to grounding subject, predicate, and object relations across frames. The work appeared at <a href=\"/#pub-cvpr23\">CVPR 2023</a> and <a href=\"/#pub-aaai24\">AAAI 2024</a>."
+    text: "Worked with colleagues at Accenture Labs, Bangalore, on localizing unseen objects and their interactions in videos from a handful of examples. This included QDETRv, a query-guided DETR for one-shot object localization, and a few-shot approach to grounding subject, predicate, and object relations across frames. The work appeared at <a href=\"/#pub-cvpr23\">CVPR 2023</a> and <a href=\"/#pub-aaai24\">AAAI 2024</a>."
   - role: "PhD Researcher and Teaching Assistant"
     org: "IIT Jodhpur, VL2G Lab"
     place: "Jodhpur, India"
     dates: "Aug 2020 to Dec 2025"
-    text: "Research in the <a href=\"https://vl2g.github.io/\">Vision, Language, and Learning Group</a> with Dr. Anand Mishra, alongside teaching assistance for seven courses. Also worked on <a href=\"/#pub-emnlp25\">language-guided token pruning</a>, which uses the query to drop uninformative video tokens before VideoLLM inference."
+    text: "Research in the <a href=\"https://vl2g.github.io/\">Vision, Language, and Learning Group</a> with Dr. Anand Mishra, alongside teaching assistance for seven courses."
 
 education:
   - degree: "M.Tech and PhD in Artificial Intelligence"
     school: "Indian Institute of Technology Jodhpur"
     dates: "2020 to 2026"
     details:
-      - "Thesis: <em>Where, How, and When: Query-Guided Grounding for Video Understanding</em>, defended on 29 September 2026"
+      - "Thesis: <em>Where, How, and When: Query-Guided Grounding for Video Understanding</em>"
       - "Adviser: <a href=\"https://anandmishra22.github.io/\">Dr. Anand Mishra</a>"
       - "Supported by a UGC NET-JRF fellowship and academic grants from Microsoft and Accenture"
   - degree: "Masters in Computer Science"
@@ -45,21 +45,6 @@ education:
   - degree: "Bachelor (Hons.) in Computer Science"
     school: "University of Delhi"
     dates: "2014 to 2017"
-
-code:
-  benchmarks:
-    - name: "SportsMoments"
-      url: "https://github.com/vl2g/MATR/tree/main/sportsmoments"
-      text: "Moment retrieval with video queries in long sports broadcasts (ICCV 2025)."
-    - name: "ChapVidMR"
-      url: "https://github.com/vl2g/ChapVidMR/tree/main"
-      text: "Chapter-based video moment retrieval from natural-language queries (ICVGIP 2024)."
-  repos:
-    - { name: "LGTTP", url: "https://github.com/yogesh-iitj/LGTTP" }
-    - { name: "MATR", url: "https://github.com/vl2g/MATR" }
-    - { name: "fs-video-vit", url: "https://github.com/yogesh-iitj/fs-video-vit" }
-    - { name: "QDETRv", url: "https://github.com/yogesh-iitj/QDETRV" }
-    - { name: "RefRelations", url: "https://github.com/vl2g/RefRelations" }
 
 recognition:
   - "Outstanding Reviewer, BMVC 2024 and 2025"

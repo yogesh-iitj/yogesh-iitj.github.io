@@ -1,9 +1,0 @@
-<section class="wrap sec" id="code" aria-labelledby="code-h">
-  <h2 id="code-h">Benchmarks and code</h2>
-  <div class="sec-body">
-    <ul class="list">
-      {% for b in site.data.cv.code.benchmarks %}<li><a href="{{ b.url }}">{{ b.name }}</a>. {{ b.text }}</li>{% endfor %}
-    </ul>
-    <p class="repos"><span class="dim">Code for the papers:</span> {% for r in site.data.cv.code.repos %}<a href="{{ r.url }}">{{ r.name }}</a>{% endfor %}</p>
-  </div>
-</section>
