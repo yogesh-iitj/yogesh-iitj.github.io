@@ -154,12 +154,6 @@ h3.sub + * { margin-top: 0.6rem; }
 .pairs { display: grid; grid-template-columns: 6.5rem minmax(0, 1fr); gap: 0.5rem 1rem; }
 .pairs dt { color: var(--muted); }
 
-/* CV page head */
-.pagehead { padding-top: 4rem; }
-.pagehead h1 { font-family: var(--display); font-weight: 700; font-size: clamp(2.2rem, 6vw, 3.5rem); line-height: 1.05; letter-spacing: -0.025em; }
-.pagehead p { margin-top: 1.25rem; }
-.button { display: inline-block; background: var(--accent); color: var(--bg); font-weight: 600; text-decoration: none; padding: 0.55rem 1.1rem; border-radius: 6px; }
-.button:hover { filter: brightness(1.1); }
 main > .sec:first-child { border-top: 0; margin-top: 0; padding-top: 4rem; }
 
 /* Footer */
@@ -195,4 +189,3 @@ main > .sec:first-child { border-top: 0; margin-top: 0; padding-top: 4rem; }
   .sec { margin-top: 1.5rem; padding-top: 1rem; }
 }
 
-.repos { display: flex; flex-wrap: wrap; gap: 0.2rem 1.1rem; }
