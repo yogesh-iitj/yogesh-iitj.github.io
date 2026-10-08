@@ -1,4 +1,13 @@
 # Newest first. Each entry: id, title, authors (HTML ok), venue, year, note (optional), links.
+- id: matr-journal
+  title: "Moment Alignment Transformer for Moment Retrieval using Video Queries"
+  authors: "<strong>Yogesh Kumar</strong>, Uday Agarwal, Manish Gupta, Anand Mishra"
+  venue: "CVIU"
+  year: "2026"
+  note: "Computer Vision and Image Understanding"
+  links:
+    - { label: "Preprint", url: "https://www.techrxiv.org/doi/full/10.36227/techrxiv.176159526.66081128/v1" }
+
 - id: aaai26
   title: "Temporal Object-Aware Vision Transformer for Few-Shot Video Object Detection"
   authors: "<strong>Yogesh Kumar</strong>, Anand Mishra"
@@ -8,14 +17,6 @@
   links:
     - { label: "Paper", url: "https://arxiv.org/pdf/2511.13784" }
     - { label: "Code", url: "https://github.com/yogesh-iitj/fs-video-vit" }
-
-- id: matr-journal
-  title: "Moment Alignment Transformer for Moment Retrieval using Video Queries"
-  authors: "<strong>Yogesh Kumar</strong>, Uday Agarwal, Manish Gupta, Anand Mishra"
-  venue: "CVIU"
-  year: "Under review"
-  links:
-    - { label: "Preprint", url: "https://www.techrxiv.org/doi/full/10.36227/techrxiv.176159526.66081128/v1" }
 
 - id: iccv25
   title: "Aligning Moments in Time using Video Queries"

@@ -14,10 +14,6 @@
     });
   }
 
-  // On narrow screens, start the timeline scrolled to the present.
-  var tl = document.querySelector(".tl-scroll");
-  if (tl) tl.scrollLeft = tl.scrollWidth;
-
   // Open the earlier-news list when printing so nothing is hidden on paper.
   window.addEventListener("beforeprint", function () {
     document.querySelectorAll("details.more").forEach(function (d) { d.open = true; });
