@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yogesh Kumar"
 title_separator          : "-"
 name                     : &name "Yogesh Kumar"
-description              : &description "Ph.D. Scholar at IIT Jodhpur"
+description              : &description "Researcher in multimodal AI and video understanding"
 url                      : https://yogesh-iitj.github.io/
 baseurl                  : "" # the subpath of your site, e.g."
 repository               : "yogesh-iitj.github.io/"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yogesh Kumar"
   avatar           : "ppic.jpeg" #"profile.png"
-  bio              : "Ph.D. Scholar at IIT Jodhpur"
-  location         : "Jodhpur, India"
+  bio              : "Senior Researcher, Dolby Laboratories"
+  location         : "Bangalore, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=prlP_UcAAAAJ&hl=en"

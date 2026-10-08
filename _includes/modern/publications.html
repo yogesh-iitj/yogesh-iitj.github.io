@@ -1,0 +1,21 @@
+<section class="wrap sec" id="publications" aria-labelledby="pub-h">
+  <h2 id="pub-h">Publications</h2>
+  <div class="sec-body">
+    <ol class="pubs">
+      {% for p in site.data.publications %}
+      <li id="pub-{{ p.id }}">
+        <p class="venue"><strong>{{ p.venue }}</strong> <span>{{ p.year }}</span></p>
+        <div>
+          <h3>{{ p.title }}</h3>
+          <p class="authors">{{ p.authors }}</p>
+          <p class="links">
+            {% if p.note %}<span class="note">{{ p.note }}</span>{% endif %}
+            {% for l in p.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
+          </p>
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+    <p class="aside">A complete list is on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
+  </div>
+</section>

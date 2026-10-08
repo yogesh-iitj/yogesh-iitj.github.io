@@ -1,0 +1,18 @@
+<section class="wrap sec" id="news" aria-labelledby="news-h">
+  <h2 id="news-h">News</h2>
+  <div class="sec-body">
+    <ul class="news">
+      {% for item in site.data.news limit: 7 %}
+      <li><span class="when">{{ item.date }}</span><span>{{ item.text }}</span></li>
+      {% endfor %}
+    </ul>
+    <details class="more">
+      <summary>Show earlier news</summary>
+      <ul class="news">
+        {% for item in site.data.news offset: 7 %}
+        <li><span class="when">{{ item.date }}</span><span>{{ item.text }}</span></li>
+        {% endfor %}
+      </ul>
+    </details>
+  </div>
+</section>

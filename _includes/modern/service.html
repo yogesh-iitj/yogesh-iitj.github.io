@@ -1,0 +1,15 @@
+<section class="wrap sec" id="service" aria-labelledby="svc-h">
+  <h2 id="svc-h">Academic service</h2>
+  <div class="sec-body">
+    <h3 class="sub">Reviewing</h3>
+    <dl class="pairs">
+      {% for r in site.data.cv.service.reviewing %}
+      <dt>{{ r.label }}</dt><dd>{{ r.text }}</dd>
+      {% endfor %}
+    </dl>
+    <h3 class="sub">Volunteering</h3>
+    <ul class="list">
+      {% for v in site.data.cv.service.volunteering %}<li>{{ v }}</li>{% endfor %}
+    </ul>
+  </div>
+</section>

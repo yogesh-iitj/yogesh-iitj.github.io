@@ -1,0 +1,17 @@
+<section class="wrap sec" id="experience" aria-labelledby="exp-h">
+  <h2 id="exp-h">Experience</h2>
+  <div class="sec-body">
+    <ul class="rows">
+      {% for e in site.data.cv.experience %}
+      <li>
+        <p class="when">{{ e.dates }}</p>
+        <div>
+          <h3>{{ e.role }}</h3>
+          <p class="org">{{ e.org }}</p>
+          <p>{{ e.text }}</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

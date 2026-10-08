@@ -1,0 +1,8 @@
+<section class="wrap sec" id="talks" aria-labelledby="talks-h">
+  <h2 id="talks-h">Talks</h2>
+  <div class="sec-body">
+    <ul class="list">
+      {% for t in site.data.cv.talks %}<li>{{ t.text }}. <span class="dim">{{ t.where }}.</span></li>{% endfor %}
+    </ul>
+  </div>
+</section>
